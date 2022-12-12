@@ -11,4 +11,3 @@ As a minimal example, we provide you our Proof-of-Concept, which allows multiple
 * open files with Unity
 * drag Sample Scence in Assets -> Scences -> Sample Scence into the hierarchy
 
-[1] https://learn.microsoft.com/de-de/training/modules/azure-spatial-anchors-tutorials/
