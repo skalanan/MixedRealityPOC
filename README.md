@@ -4,7 +4,7 @@ Currently we are working on a project where we have to integrate a multi-user fu
 
 To test it we used 2 HoloLenses. On one, we were able to start an Azure session, create an anchor and share it. On the other, as we click on the “get anchor” button, it shows on the debug console that the anchor was updated successfully, even though the object is still in the same position and hasn’t been updated. Do you know where the problem lies at and what could be done so that the objects / anchors will be actually updated?
 
-As a minimal example, we provide you our Proof-of-Concept, which allows multiple people interact with each other, which is the same as the example described above. 
+As a minimal example, we provide you our Proof-of-Concept, which allows multiple people interact with each other (same as the example described above). 
 
 # SetUp
 * Clone this repo
